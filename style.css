@@ -1,0 +1,40 @@
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(14, 12, 12)
+}
+
+button {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 2px solid rgb(30, 238, 40);
+    background-color: rgb(30, 238, 40);
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+}
+
+#counter {
+    display: flex;
+ }
+#contador {
+    display: flex;
+    align-items: center;
+    margin: 0 35px;
+    font-size: 30pt;
+    color: rgb(30, 238, 40);
+}
+h1 {
+    color: rgb(30, 238, 40);
+    font-size: 70px;
+}
+
+p {
+    color: rgb(30, 238, 40);
+    font-size: 30px;
+}
